@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  REGISTRY_USER: DJhuan
+  REGISTRY_USER: djhuan
   IMAGE_NAME: sem7
 
 jobs:
